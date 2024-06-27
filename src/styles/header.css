@@ -1,0 +1,11 @@
+.container-header{
+    background-color: var(--color1);
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    align-self: flex-start;
+    z-index: 16;
+    height: 3%;
+    
+}
